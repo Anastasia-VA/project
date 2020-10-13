@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Семантическая верстка</title>
+  </head>
+  <body>
+    <header>
+      <div>
+        <h1>re</h1>
+        <h2>REGNUM</h2>
+      </div>
+    <section>
+        <h1>
+          Apple представила новый iPhon 12
+          </h1>
+          <p>
+          Вторая по счету осенняя презентация компании проходит 13 октября в её штаб-квартире Apple Park в Купертино.
+          </p>
+    </section>
+    </header>
+  </body>
+</html>
